@@ -1,0 +1,14 @@
+DATASET:
+
+
+Customer Churn Prediction:
+https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
+
+
+
+Credit Card Fraud Detection:
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
+
+ Spam SMS Detection:
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
